@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Penasaran",
+            "request": "launch",
+            "mainClass": "Penasaran",
+            "projectName": "Java_3c67cef0"
+        },
+        {
+            "type": "java",
+            "name": "Launch TugasBasicJava",
+            "request": "launch",
+            "mainClass": "TugasBasicJava",
+            "projectName": "Java_3c67cef0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Penasaran",
+            "request": "launch",
+            "mainClass": "Penasaran",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch LatihanDoWhile",
+            "request": "launch",
+            "mainClass": "LatihanDoWhile",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaDoWhile",
+            "request": "launch",
+            "mainClass": "JavaDoWhile",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch TugasScanner",
+            "request": "launch",
+            "mainClass": "TugasScanner",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaScanner",
+            "request": "launch",
+            "mainClass": "JavaScanner",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaIfElse",
+            "request": "launch",
+            "mainClass": "JavaIfElse",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch LatihanIfElse",
+            "request": "launch",
+            "mainClass": "LatihanIfElse",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch LatihanLoop",
+            "request": "launch",
+            "mainClass": "LatihanLoop",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loop",
+            "request": "launch",
+            "mainClass": "Loop",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Condition",
+            "request": "launch",
+            "mainClass": "Condition",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaOperator",
+            "request": "launch",
+            "mainClass": "JavaOperator",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaString",
+            "request": "launch",
+            "mainClass": "JavaString",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaVariable",
+            "request": "launch",
+            "mainClass": "JavaVariable",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch LatihanSoal",
+            "request": "launch",
+            "mainClass": "LatihanSoal",
+            "projectName": "JavaVariabel_b04114ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaVariabel_b04114ba"
+        }
+    ]
+}
